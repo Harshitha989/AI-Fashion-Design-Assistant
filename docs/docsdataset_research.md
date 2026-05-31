@@ -1,8 +1,7 @@
 # Dataset Research
 
 ## FashionGen Dataset
-
-FashionGen is a large-scale fashion dataset developed for text-to-image generation tasks.
+FashionGen is a fashion dataset that contains clothing images and descriptions. It can be useful for training AI models that generate fashion designs from text.
 
 Features:
 * High-quality fashion images
@@ -11,13 +10,12 @@ Features:
 * Useful for generative AI applications
 
 Applications:
-
 * Text-to-image generation
 * Fashion captioning
 * Style understanding
 
 ## DeepFashion Dataset
-DeepFashion is one of the most widely used fashion datasets.
+The DeepFashion dataset is a massive digital library of over 800,000 clothing pictures used to train AI models. It acts like a giant textbook that teaches computers how to recognize clothes.
 
 Features:
 * Clothing categories
