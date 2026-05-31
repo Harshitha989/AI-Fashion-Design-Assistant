@@ -1,5 +1,6 @@
 # Fashion Data Pipeline
 
+
 Raw Dataset
 ↓
 Data Cleaning
